@@ -1,0 +1,291 @@
+.mainH {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  font-size: 16px;
+}
+
+.mainH-1 {
+  display: flex;
+  align-items: center;
+
+
+}
+
+.button {
+  width: 70px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #992E9D;
+  margin-left: 20px;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+.herosection {
+  background-color: black;
+  color: white;
+  width: 100%;
+  font-size: 16px;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  padding: 10px;
+
+}
+
+.herosection-h {
+  margin: 10px;
+}
+
+.screen-part {
+  margin-left: 70px;
+
+}
+
+.screen-part-m {
+  background-color: #FFF4C5;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  font-size: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.screen-part-m9 {
+  display: flex;
+}
+
+.screen-btn {
+  display: flex;
+  background-color: #992E9D;
+  border-radius: 10px;
+  align-items: center;
+  width: 120px;
+  justify-content: space-between;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+
+}
+.screen-btn-1{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.screen-btn-2{
+
+  margin-right: 10px;
+}
+.screen-btn-box{
+  display: flex;
+  align-items: center;
+
+}
+.para{
+  margin-left: 20px;
+  color: #992E9D;
+}
+.scren-bottom{
+  display: flex;
+  margin-top: 20px;
+  background-color: #F9EBFC;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.screen-bttom-1{
+  display: flex;
+  align-items: center;
+}
+.card {
+  background-color: #FCF5FE;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ff69b4;
+  color: #ffffff;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+.card-h{
+  justify-content: center;
+  text-align: center;
+}
+.card-1{
+  background-color: white;
+  margin-top: 30px;
+
+}
+.card-2{
+  border: 1px solid #E5E5E8;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+ 
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.card-3{
+  border: 1px solid #E5E5E8;
+
+ 
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.card-4{
+  border: 1px solid #E5E5E8;
+
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.btn{
+  background-color: #F9EBFC;
+  border-color: #F9EBFC;
+  border-radius: 20px;
+  padding: 15px;
+  color: #ff69b4;
+  align-items: center;
+  text-align: center;
+ 
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+
+}
+
+h2 {
+  
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.logo {
+  border-radius: 5px;
+  background-color: white;
+  width: 100px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+
+}
+
+h2 {
+  
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.logo {
+  border-radius: 5px;
+  background-color:whitesmoke;
+  width: 100px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-1{
+  width:100%;
+  height: 100%;
+}
+.sass{
+ text-align: center;
+  padding: 20px;
+  margin: 20px;
+
+  
+}
+.course-offer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: violet;
+  border-radius: 20px;
+  margin: 20px;
+
+  justify-content: center;
+  text-align: center;
+}
+.left {
+
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.right {
+  width: 40%;
+  text-align: right;
+}
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+button {
+  background-color:black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
